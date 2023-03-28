@@ -225,3 +225,5 @@ while player.hp > 0 and monster.hp > 0 or active == 2:
 # 프린트 가독성 높이기 -> clear!
 # 몬스터 상속으로 바꾸기 -> clear! 
 # 크리티컬 : 10% 확률로 3배 데미지! -> clear!
+
+# 끝
