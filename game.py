@@ -179,7 +179,7 @@ time.sleep(1)
 # 내가 먼저 공격
 # while문을 쓸 것.
 
-while player.hp > 0 and monster.hp > 0 or active == 2:
+while player.hp > 0 and monster.hp > 0:
 
     active = input("\n (공격:1 도망가기:2) : ")
     if active == "1":
